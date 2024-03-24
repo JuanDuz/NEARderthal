@@ -5,6 +5,8 @@ Token aligned to the NIP-141 Standard.
 
 Learn along Nearderthal to create your own token on NEAR.
 
+![NEARderthal](/docs/Nearderthal.webp)
+
 ## Launch your token
 The objective of this project is to give a template for those who want to launch their own token on the NEAR blockchain.
 Alongside the template I'll also give you the updated scripts on the near-cli-rs
