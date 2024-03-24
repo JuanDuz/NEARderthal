@@ -4,7 +4,10 @@ Meme coin on the NEAR Blockchain.
 Token aligned to the NIP-141 Standard.
 
 Learn along Nearderthal to create your own token on NEAR.
+
 Contract account: https://testnet.nearblocks.io/es/token/transfer.mainjungle.testnet#
+
+
 ![NEARderthal](/docs/Nearderthal.webp)
 
 ## Launch your token
