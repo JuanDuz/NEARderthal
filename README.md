@@ -1,7 +1,7 @@
 # NEARderthal
 
 Meme coin on the NEAR Blockchain.
-Token aligned to the NIP-141 Standard.
+Token aligned to the NEP-141 Standard.
 
 Learn along Nearderthal to create your own token on NEAR.
 
